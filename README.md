@@ -1,4 +1,4 @@
-grupython_teste1
+Introdução ao Git e GitHub
 ================
 
-Intrudução ao Github
+Repositório destinado ao aprendizado do Git e o Github no curso do Grupython
